@@ -27,7 +27,7 @@ Pytorch implementation of the paper ["Multiple Hypothesis Testing for Anomaly De
 
 
 ## Citation
-If you find this code useful, please consider citing our paper: Multiple Hypothesis Testing for Anomaly Detection in Multi-type Event Sequences.
+If you find this code useful, please consider citing our paper. Thanks!
 
 ```
 @inproceedings{zhang2023multiple,
