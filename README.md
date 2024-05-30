@@ -1,5 +1,5 @@
 # MultiAD: Multiple Hypothesis Testing for Anomaly Detection in Multi-type Event Sequences
-Pytorch implementation of the paper ["Multiple Hypothesis Testing for Anomaly Detection in Multi-type Event Sequences"](https://ieeexplore.ieee.org/abstract/document/10415766), ICDM 2023.
+The implementation of our ICDM-2023 paper ["Multiple Hypothesis Testing for Anomaly Detection in Multi-type Event Sequences"](https://ieeexplore.ieee.org/abstract/document/10415766).
 
 
 ## Installation
